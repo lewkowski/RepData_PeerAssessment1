@@ -1,6 +1,7 @@
 # Reproducible Research: Peer Assessment 1
 ## Synopsis
 This report answers the questions posed for Assignment 1 of the Coursera - Reproducible Research course. Details of the assignment can be found at: https://class.coursera.org/repdata-035/human_grading/view/courses/975148/assessments/3/submissions.
+All code used to generate the report has been included in the greyed out sections.
 
 ## Loading and preprocessing the data
 The following code is used to load the dataset into a data frame.
